@@ -9,7 +9,7 @@
 -------------------------------------------------------------------------------
 ## Steps to run:
 
-### (1) Create Environment
+### (1) Create and activate Environment
 ```bash
 conda create -n llmenv python=3.10 -y
 ```
